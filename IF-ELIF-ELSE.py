@@ -22,7 +22,7 @@ elif b > a:
     print("b é maior que a") 
 
 else: 
-
+    
     print("a é b são iguais") 
 
   
